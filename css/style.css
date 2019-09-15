@@ -1,0 +1,51 @@
+body{
+  font-family: "Lucia Grande", sans-serif;
+  color: white;
+  background: black;
+}
+div{
+  min-height: 100px;
+  padding: 30px;
+}
+p{
+  size: 16px;
+  padding-top: 15px;
+}
+h1{
+  font-size: 64px;
+  text-align: center;
+}
+h2{
+  font-size: 32px;
+  text-shadow: 4px 4px 2px black;
+}
+img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 550px;
+}
+div#red{
+  background: red;
+  text-align: right;
+}
+div#blue{
+  background: blue;
+  text-align: left;
+}
+div#yellow{
+  color: black;
+  background: yellow;
+  text-align: right;
+}
+div#yellow h2{
+    text-shadow: 4px 4px 2px grey;
+}
+div#green{
+  background: green;
+  text-align: left;
+}
+footer{
+  padding-bottom: 15px;
+  text-align: center;
+}
